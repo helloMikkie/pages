@@ -12,3 +12,4 @@ layer = new Layer
   height: 200
 ```
 
+![test](/images/logo.jpg)
