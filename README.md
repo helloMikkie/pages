@@ -8,9 +8,11 @@
 
 font
 
- `<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">` 
+ ```HTML
+ <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">`
 
- `fontweight: 400 (normal), 500 (medium)` 
+ `'' CSS
+ fontweight: 400 (normal), 500 (medium)``` 
 
 # Main Navigation
 
