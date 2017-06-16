@@ -9,10 +9,12 @@
 font
 
  ```HTML
- <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">`
+ <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+ ```
 
- `'' CSS
- fontweight: 400 (normal), 500 (medium)``` 
+ ``` CSS
+ fontweight: 400 (normal), 500 (medium)
+ ``` 
 
 # Main Navigation
 
