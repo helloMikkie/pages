@@ -30,9 +30,11 @@ font
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/db401331bd0b4771a6f299905b1431eb/Bildschirmfoto_2017-06-16_um_18.48.36.jpg)
 
- `background-color: #fff;` 
+ ```HTML
+background-color: #fff;
+box-shadow: 0 6px 20px 0 hsla(0, 0%, 67%, .8);
+```
 
- `box-shadow: 0 6px 20px 0 hsla(0, 0%, 67%, .8);` 
 
  **Projekte** **Image** 
 
